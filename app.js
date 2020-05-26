@@ -62,6 +62,8 @@ $(function () {
                   }
               }
           }
-      }
+      },
+      legend: {},
+      areas: {}
   });
 });
