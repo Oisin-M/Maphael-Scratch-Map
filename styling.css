@@ -6,11 +6,11 @@ body {
 h1 {
     font-size: 30px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 15px;
 }
 
 .container {
-    max-width: 800px;
+    max-height: 100vh;
     margin: auto;
 }
 
